@@ -1,3 +1,3 @@
 # LNV
 
-Python code to compute extended (loopy) nim-values of the positions of a finite digraph.
+Python code to compute loopy (extended) nim-values of the positions of a finite digraph.
